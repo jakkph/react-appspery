@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+# React Appspery - React Landing Page Template
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Copy of Copy of Copy of Fullstack Twitter Clone](/public/images/cover.png)](https://www.youtube.com/watch?v=ffJ38dBzrlY)
 
-## Available Scripts
+## Appspery React
 
-In the project directory, you can run:
+App Landing Page Template is fully responsive with Bootstrap 5. It comes with important, beautiful, and high-performance web design. Erected with Bootstrap v5.1.3, React 18x, and CSS3. Appspery includes all SASS laws for a complete and easy customization experience. Compatible with Desktop, Laptop, Tablet, mobile, or any device. Appspery is a simple and clean design, that will give your business/ Marketing professional look.
 
-### `npm start`
+## Appspery
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+App landing Template is a completely responsive and mobile-friendly Template. Appspery is largely suitable for App launch and is the better way to present your app or product. It’s veritably clean, important, and easy to use. It’s also largely customizable and SEO-friendly, We designed our template with high-position professionals.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Features:
 
-### `npm test`
+- Build with React 18.\*
+- Bootstrap v5.1.3. Template
+- No jquery dependency
+- Easy color management
+- Clean and Unique design
+- Google fonts support
+- Material Design Icons
+- Fully responsive
+- HTML5 & CSS3 Validated
+- Full browsers compatibility
+- Working Contact form
+- Well documented code
+- And much more….
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Vercel Deploy
 
-### `npm run build`
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fjakkph%2Freact-appspery)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Prerequisites
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**Node version 18.x.x**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Cloning the repository
 
-### `npm run eject`
+```shell
+git clone https://github.com/jakkph/react-appspery
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Install packages
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```shell
+npm i
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Start Project
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```shell
+npm run start
+```
 
-## Learn More
+## Available commands
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Running commands with npm `npm run [command]`
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+| command | description                              |
+| :------ | :--------------------------------------- |
+| `start` | Starts a development instance of the app |
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+> ** Envato member **
